@@ -1,0 +1,251 @@
+City,State,Year,Unemployment Rate (%)
+Mesa,AZ,2021,4.5
+Phoenix,AZ,2021,5.0
+Tucson,AZ,2021,5.5
+Bakersfield,CA,2021,7.8
+Fresno,CA,2021,8.0
+Long Beach,CA,2021,9.3
+Los Angeles,CA,2021,9.0
+Oakland,CA,2021,6.7
+Sacramento,CA,2021,6.9
+San Diego,CA,2021,6.2
+"San Francisco County/city, CA",CA,2021,5.6
+San Jose,CA,2021,5.5
+Colorado Springs,CO,2021,5.6
+"Denver County/city, CO",CO,2021,5.8
+Washington,DC,2021,6.8
+Jacksonville,FL,2021,4.7
+Miami,FL,2021,5.2
+Atlanta,GA,2021,4.9
+"Honolulu County/city, HI",HI,2021,5.4
+Chicago,IL,2021,7.3
+Indianapolis (consolidated),IN,2021,4.9
+Wichita,KS,2021,4.8
+Louisville-Jefferson County (consolidated),KY,2021,4.6
+Baltimore,MD,2021,6.7
+Boston,MA,2021,5.4
+Detroit,MI,2021,12.6
+Minneapolis,MN,2021,4.0
+Kansas City,MO,2021,4.9
+Omaha,NE,2021,3.3
+Las Vegas,NV,2021,7.8
+Albuquerque,NM,2021,6.4
+New York,NY,2021,10.1
+Charlotte,NC,2021,5.2
+Raleigh,NC,2021,4.4
+Columbus,OH,2021,5.2
+Oklahoma City,OK,2021,4.0
+Tulsa,OK,2021,4.6
+Portland,OR,2021,5.3
+"Philadelphia County/city, PA",PA,2021,7.9
+Memphis,TN,2021,8.2
+Nashville-Davidson (consolidated),TN,2021,4.4
+Austin,TX,2021,4.0
+Dallas,TX,2021,5.7
+El Paso,TX,2021,5.8
+Fort Worth,TX,2021,5.4
+Houston,TX,2021,6.2
+San Antonio,TX,2021,5.4
+Virginia Beach,VA,2021,3.7
+Seattle,WA,2021,4.1
+Milwaukee,WI,2021,6.3
+Mesa,AZ,2022,3.3
+Phoenix,AZ,2022,3.3
+Tucson,AZ,2022,3.9
+Bakersfield,CA,2022,4.9
+Fresno,CA,2022,5.0
+Long Beach,CA,2022,4.9
+Los Angeles,CA,2022,5.1
+Oakland,CA,2022,3.5
+Sacramento,CA,2022,3.9
+San Diego,CA,2022,3.3
+"San Francisco County/city, CA",CA,2022,2.8
+San Jose,CA,2022,2.9
+Colorado Springs,CO,2022,3.1
+"Denver County/city, CO",CO,2022,3.0
+Washington,DC,2022,4.7
+Jacksonville,FL,2022,3.2
+Miami,FL,2022,2.5
+Atlanta,GA,2022,3.4
+"Honolulu County/city, HI",HI,2022,3.2
+Chicago,IL,2022,5.0
+Indianapolis (consolidated),IN,2022,3.3
+Wichita,KS,2022,3.3
+Louisville-Jefferson County (consolidated),KY,2022,4.0
+Baltimore,MD,2022,3.8
+Boston,MA,2022,3.5
+Detroit,MI,2022,7.9
+Minneapolis,MN,2022,2.3
+Kansas City,MO,2022,2.8
+Omaha,NE,2022,2.6
+Las Vegas,NV,2022,5.6
+Albuquerque,NM,2022,3.6
+New York,NY,2022,5.6
+Charlotte,NC,2022,3.7
+Raleigh,NC,2022,3.2
+Columbus,OH,2022,3.5
+Oklahoma City,OK,2022,2.8
+Tulsa,OK,2022,3.2
+Portland,OR,2022,3.6
+"Philadelphia County/city, PA",PA,2022,4.9
+Memphis,TN,2022,4.9
+Nashville-Davidson (consolidated),TN,2022,2.8
+Austin,TX,2022,2.9
+Dallas,TX,2022,3.8
+El Paso,TX,2022,4.1
+Fort Worth,TX,2022,3.7
+Houston,TX,2022,4.2
+San Antonio,TX,2022,3.7
+Virginia Beach,VA,2022,2.7
+Seattle,WA,2022,3.1
+Milwaukee,WI,2022,4.0
+Mesa,AZ,2023,3.2
+Phoenix,AZ,2023,3.2
+Tucson,AZ,2023,3.7
+Bakersfield,CA,2023,5.8
+Fresno,CA,2023,5.9
+Long Beach,CA,2023,4.7
+Los Angeles,CA,2023,5.3
+Oakland,CA,2023,4.1
+Sacramento,CA,2023,4.3
+San Diego,CA,2023,3.6
+"San Francisco County/city, CA",CA,2023,3.4
+San Jose,CA,2023,3.7
+Colorado Springs,CO,2023,3.2
+"Denver County/city, CO",CO,2023,3.4
+Washington,DC,2023,4.9
+Jacksonville,FL,2023,3.2
+Miami,FL,2023,1.8
+Atlanta,GA,2023,3.7
+"Honolulu County/city, HI",HI,2023,2.6
+Chicago,IL,2023,4.5
+Indianapolis (consolidated),IN,2023,3.4
+Wichita,KS,2023,3.2
+Louisville-Jefferson County (consolidated),KY,2023,4.0
+Baltimore,MD,2023,3.0
+Boston,MA,2023,3.4
+Detroit,MI,2023,7.3
+Minneapolis,MN,2023,2.5
+Kansas City,MO,2023,3.2
+Omaha,NE,2023,2.7
+Las Vegas,NV,2023,5.4
+Albuquerque,NM,2023,3.3
+New York,NY,2023,5.0
+Charlotte,NC,2023,3.6
+Raleigh,NC,2023,3.2
+Columbus,OH,2023,3.4
+Oklahoma City,OK,2023,2.9
+Tulsa,OK,2023,3.4
+Portland,OR,2023,3.6
+"Philadelphia County/city, PA",PA,2023,4.3
+Memphis,TN,2023,4.7
+Nashville-Davidson (consolidated),TN,2023,2.7
+Austin,TX,2023,3.4
+Dallas,TX,2023,4.0
+El Paso,TX,2023,4.2
+Fort Worth,TX,2023,3.8
+Houston,TX,2023,4.7
+San Antonio,TX,2023,3.8
+Virginia Beach,VA,2023,2.7
+Seattle,WA,2023,3.7
+Milwaukee,WI,2023,3.9
+Mesa,AZ,2024,3.2
+Phoenix,AZ,2024,3.2
+Tucson,AZ,2024,3.7
+Bakersfield,CA,2024,6.3
+Fresno,CA,2024,6.4
+Long Beach,CA,2024,5.6
+Los Angeles,CA,2024,5.9
+Oakland,CA,2024,4.7
+Sacramento,CA,2024,4.7
+San Diego,CA,2024,4.2
+"San Francisco County/city, CA",CA,2024,3.9
+San Jose,CA,2024,4.3
+Colorado Springs,CO,2024,4.0
+"Denver County/city, CO",CO,2024,4.3
+Washington,DC,2024,5.3
+Jacksonville,FL,2024,3.6
+Miami,FL,2024,2.2
+Atlanta,GA,2024,3.8
+"Honolulu County/city, HI",HI,2024,2.5
+Chicago,IL,2024,5.5
+Indianapolis (consolidated),IN,2024,4.1
+Wichita,KS,2024,4.0
+Louisville-Jefferson County (consolidated),KY,2024,4.6
+Baltimore,MD,2024,4.3
+Boston,MA,2024,3.8
+Detroit,MI,2024,9.2
+Minneapolis,MN,2024,2.9
+Kansas City,MO,2024,3.8
+Omaha,NE,2024,3.2
+Las Vegas,NV,2024,5.6
+Albuquerque,NM,2024,3.7
+New York,NY,2024,5.0
+Charlotte,NC,2024,3.8
+Raleigh,NC,2024,3.3
+Columbus,OH,2024,4.2
+Oklahoma City,OK,2024,3.0
+Tulsa,OK,2024,3.4
+Portland,OR,2024,4.2
+"Philadelphia County/city, PA",PA,2024,4.7
+Memphis,TN,2024,4.8
+Nashville-Davidson (consolidated),TN,2024,2.8
+Austin,TX,2024,3.5
+Dallas,TX,2024,4.2
+El Paso,TX,2024,4.0
+Fort Worth,TX,2024,4.0
+Houston,TX,2024,4.5
+San Antonio,TX,2024,3.8
+Virginia Beach,VA,2024,2.8
+Seattle,WA,2024,3.9
+Milwaukee,WI,2024,4.2
+Mesa,AZ,2025,3.7
+Phoenix,AZ,2025,3.8
+Tucson,AZ,2025,4.4
+Bakersfield,CA,2025,6.6
+Fresno,CA,2025,6.7
+Long Beach,CA,2025,5.5
+Los Angeles,CA,2025,5.8
+Oakland,CA,2025,4.9
+Sacramento,CA,2025,5.1
+San Diego,CA,2025,4.5
+"San Francisco County/city, CA",CA,2025,4.1
+San Jose,CA,2025,4.4
+Colorado Springs,CO,2025,4.0
+"Denver County/city, CO",CO,2025,4.1
+Washington,DC,2025,6.3
+Jacksonville,FL,2025,4.2
+Miami,FL,2025,2.4
+Atlanta,GA,2025,3.7
+"Honolulu County/city, HI",HI,2025,2.3
+Chicago,IL,2025,4.9
+Indianapolis (consolidated),IN,2025,3.7
+Wichita,KS,2025,4.2
+Louisville-Jefferson County (consolidated),KY,2025,4.5
+Baltimore,MD,2025,5.2
+Boston,MA,2025,4.4
+Detroit,MI,2025,10.0
+Minneapolis,MN,2025,3.7
+Kansas City,MO,2025,4.1
+Omaha,NE,2025,3.4
+Las Vegas,NV,2025,5.6
+Albuquerque,NM,2025,3.9
+New York,NY,2025,5.2
+Charlotte,NC,2025,4.0
+Raleigh,NC,2025,3.3
+Columbus,OH,2025,4.4
+Oklahoma City,OK,2025,3.2
+Tulsa,OK,2025,3.5
+Portland,OR,2025,5.1
+"Philadelphia County/city, PA",PA,2025,5.3
+Memphis,TN,2025,5.0
+Nashville-Davidson (consolidated),TN,2025,3.0
+Austin,TX,2025,3.3
+Dallas,TX,2025,4.0
+El Paso,TX,2025,4.2
+Fort Worth,TX,2025,4.0
+Houston,TX,2025,4.5
+San Antonio,TX,2025,3.9
+Virginia Beach,VA,2025,3.2
+Seattle,WA,2025,4.2
+Milwaukee,WI,2025,4.5
